@@ -1,0 +1,4 @@
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:openbl/dockerfiles
+	branch = postgresql
